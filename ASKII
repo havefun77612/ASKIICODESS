@@ -1,0 +1,14 @@
+
+#include "stdafx.h"
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	char x ;
+	while (cin >> x)
+	cout << x +1-1
+		<< endl;
+    return 0;
+}
+
